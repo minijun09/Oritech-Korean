@@ -224,7 +224,7 @@
   "tooltip.oritech.soul_crop": "영혼 흙에서 자랍니다. 영혼을 포함합니다.",
   "tooltip.oritech.superconductor": "일반 에너지 파이프에 연결할 수 없습니다.",
   "tooltip.oritech.jetpack_usage": "비행하려면 전기나 터보연료가 필요합니다.",
-  "tooltip.oritech.jetpack_usage2": "터보연료로 더 빠릅니다.",
+  "tooltip.oritech.jetpack_usage2": "터보연료가 더 빠릅니다.",
   "tooltip.oritech.charger": "장비를 충전하고 채우는 데 사용됩니다.",
   "tooltip.oritech.addon_speed_desc": "작동 속도 ",
   "tooltip.oritech.addon_efficiency_desc": "에너지 효율 ",
@@ -260,7 +260,7 @@
   "tooltip.oritech.black_hole": "이것이 무엇을 하는지 알지 못하는 한 배치하지 마세요.",
   "tooltip.oritech.reactor_controller": "가변 크기 원자로 멀티블록의 제어 조각입니다.",
   "tooltip.oritech.reactor_controller.0": "원자로 벽에 배치되어야 하며 원자로를 조립하는 데 사용됩니다.",
-  "tooltip.oritech.reactor_controller.1": "내부 레이어는 Y축에서 동일해야 합니다.",
+  "tooltip.oritech.reactor_controller.1": "내부 레이어는 y축이 동일해야 합니다.",
   "tooltip.oritech.reactor_controller.2": "",
   "tooltip.oritech.reactor_controller.3": "경고: 원자로의 냉각이 부족하면 재앙적인 결과가 발생할 수 있습니다",
   "tooltip.oritech.reactor_controller.4": "결과. 원자로를 운영할 때 항상 적절한 안전 절차를 따르세요",
@@ -288,8 +288,8 @@
   "tooltip.oritech.reactor_fuel_port": "여기서 연료가 원자로 로드에 공급됩니다.",
   "tooltip.oritech.reactor_fuel_port.0": "",
   "tooltip.oritech.reactor_fuel_port.1": "원자로 껍질 위에 배치되어야 합니다",
-  "tooltip.oritech.electric_mace": "공격할 때 작은 번개 폭풍을 날립니다. 일반 메이스처럼 작동합니다.",
-  "tooltip.oritech.electric_mace.1": "메이스는 큰 높이에서 떨어지는 동안 공격할 때 증가된 피해를 입습니다.",
+  "tooltip.oritech.electric_mace": "공격할 때 작은 번개 폭풍을 날립니다. 일반 철퇴처럼 작동합니다.",
+  "tooltip.oritech.electric_mace.1": "철퇴는 높은 곳에서 떨어지는 동안 공격할 때 증가된 피해를 입힙니다.",
   "tooltip.oritech.reactor_fuel_port.2": "원자로 로드.",
   "tooltip.oritech.reactor_absorber_port": "원자로 열 흡수기에 냉각제가 공급됩니다.",
   "tooltip.oritech.reactor_absorber_port.0": "",
@@ -735,7 +735,7 @@
   "block.oritech.raw_platinum_block": "백금 원석 블록",
   "block.oritech.black_hole_block": [
     {
-      "text": "검은 구멍",
+      "text": "블랙홀",
       "color": "#cc66ff"
     }
   ],
