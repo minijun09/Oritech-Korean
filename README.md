@@ -4,7 +4,7 @@
 ![Modrinth Version](https://img.shields.io/modrinth/v/4sYI62kA?label=Oritech%20version)
 ![Oritech Modrinth](https://img.shields.io/badge/Oritech-Github?label=Modrinth&labelColor=4eac64&color=grey&link=https%3A%2F%2Fmodrinth.com%2Fmod%2Foritech%2F)
 ![Oritech CurseForge](https://img.shields.io/badge/Oritech-Curseforge?label=CurseForge&labelColor=%23e06e44&color=grey&link=https%3A%2F%2Fwww.curseforge.com%2Fminecraft%2Fmc-mods%2Foritech)
-
+![GitHub License](https://img.shields.io/github/license/minijun09/Oritech-Korean)
 
 마인크래프트 오리테크(Oritech) 모드 비공식 한글번역 리소스팩
 
