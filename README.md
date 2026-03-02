@@ -15,6 +15,3 @@ thanks to:
 - leesuwan2670
 - Chorokk
 - pengpeng-e
-
-
-MIT LICENSE
