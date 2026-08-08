@@ -1,19 +1,9 @@
 # Oritech-Korean
-
-![Minecraft Version](https://img.shields.io/badge/1.21.1-minecraft?label=Minecraft&labelColor=67a346&color=grey)
-![Modrinth Version](https://img.shields.io/modrinth/v/4sYI62kA?label=Oritech%20version)
-![Oritech Modrinth](https://img.shields.io/badge/Oritech-Github?label=Modrinth&labelColor=4eac64&color=grey&link=https%3A%2F%2Fmodrinth.com%2Fmod%2Foritech%2F)
-![Oritech CurseForge](https://img.shields.io/badge/Oritech-Curseforge?label=CurseForge&labelColor=%23e06e44&color=grey&link=https%3A%2F%2Fwww.curseforge.com%2Fminecraft%2Fmc-mods%2Foritech)
-![GitHub License](https://img.shields.io/github/license/minijun09/Oritech-Korean)
-
 마인크래프트 오리테크(Oritech) 모드 비공식 한글번역 리소스팩
 
 아래 모드가 필요합니다.
 - [Oritech](https://modrinth.com/mod/oritech)
-- [Architectury API](https://github.com/architectury/architectury-api)
-- [Owo Lib](https://github.com/wisp-forest/owo-lib)
-- [Athena](https://github.com/terrarium-earth/Athena)
-- [Geckolib](https://github.com/bernie-g/geckolib)
+- Oritech의 의존성
 
 
 마인크래프트 리소스팩 폴더에 추가하여 적용합니다.
@@ -24,6 +14,6 @@
 CC0-1.0 License
 
 thanks to:
-- leesuwan2670
+- [leesuwan2670](https://github.com/leesuwan2670)
 - Chorokk
 - pengpeng-e
